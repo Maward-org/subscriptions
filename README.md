@@ -9,5 +9,4 @@ This is an enhancement to the built-in Subscription model in ERPNext, allowing y
 #### The monthly amount should be calculated automatically.
 
 #### on this, determine the billing period in which invoices should be issued.  
- ![Image](https://github.com/user-attachments/assets/8caed825-eaad-4006-aab6-3bd8d7e5b4f9)
-
+![Image](https://github.com/user-attachments/assets/19c55781-cfc3-474a-b366-33a3989e33b5)
